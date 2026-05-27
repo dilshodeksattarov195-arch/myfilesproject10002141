@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservpdate",
+        "uuid": 13057959,
+        "checksum": "88zxyz"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
